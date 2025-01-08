@@ -3,7 +3,7 @@ import { Container } from "./styles";
 import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
-// import { Project } from "../Project/Project";
+import { Project } from "../Project/Project";
 import tailwind from "../../assets/tailwind.svg";
 import mongodb from "../../assets/mongodb.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -247,7 +247,7 @@ export function Main() {
       />
       <Hero></Hero>
       <About></About>
-      {/* <Project></Project> */}
+      <Project></Project>
       <Contact></Contact>
     </Container>
   );
