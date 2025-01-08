@@ -1,9 +1,5 @@
 import { Container } from './styles';
-import emailIcon from '../../assets/email-icon.svg';
-import phoneIcon from '../../assets/phone-icon.svg';
 import { Form } from '../Form/Form';
-import EmailSvg from '../../assets/svgs/EmailSvg';
-import PhoneSvg from '../../assets/svgs/PhoneSvg';
 import { IoIosMail } from "react-icons/io";
 import { IoCallOutline } from "react-icons/io5";
 
